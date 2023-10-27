@@ -1,1 +1,1 @@
-# logicagm
+# logicavarios
